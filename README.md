@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RogerADFine
-- 👀 I’m interested in game.
+- 👀 I’m interested in computer game.
 - 🌱 I’m currently learning couputer science now.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
