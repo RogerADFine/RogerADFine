@@ -6,6 +6,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I am a looser
 - ✨ special highlights: I am alone. I don't know what to do.
+- I am good today
 
 <!---
 RogerADFine/RogerADFine is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
